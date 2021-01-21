@@ -12,7 +12,7 @@ The course is 100% do-it-yourself and does not come with any credits.
 However, a Q&A session is available once a week to help you out/get started.
 Furthermore, I would like to call on the course participants to help one another out.
 For this we will be using the [*Issues*](https://github.com/UNISvalbard/python-gis-course/issues) section on Github.
-In other words, whenever you run into issues, please file an issue using one of the templates.
+In other words, whenever you run into issues, please file an issue using one of the templates (go for: help needed and describe the problem).
 
 NOTE: It may take a few hours or days of someone to get back to you, but that's the cost of getting the help for free :)
 
